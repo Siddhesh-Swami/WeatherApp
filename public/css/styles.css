@@ -1,0 +1,58 @@
+.jumbotron{
+	background-color: powderblue;
+}
+
+
+.display-4{
+	font-weight: 100;
+}
+
+.container{
+	max-width: 600px;
+	text-align: center;
+}
+
+label{
+	color: black;
+}
+
+input{
+	box-shadow: 5px 10px 15px grey;
+}
+
+button{
+	margin-top: 40px;
+	text-align: center;
+	box-shadow: 5px 10px 15px grey;
+}
+
+img{
+	background-color: grey;
+	border-radius: 60px;
+}
+
+h2{
+	font-weight: lighter;
+}
+
+span{
+	font-weight: bold;
+}
+
+
+footer{
+	position: fixed;
+	bottom: 0px;
+	background-color: powderblue;
+	height: 100px;
+	width: 100%;
+}
+
+footer p {
+	margin: 15px 0;
+	text-align: center;
+}
+
+a{
+	text-decoration: none;
+}
