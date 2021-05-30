@@ -47,5 +47,5 @@ app.post("/", function(req,res) {
 })
 
 app.listen(process.env.PORT,function() {
-	console.log("Server running on port ${process.env.PORT}.");
+	console.log(`Server running on port ${process.env.PORT}.`);
 })
